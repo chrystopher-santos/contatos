@@ -10,83 +10,83 @@ type initialStateType = {
 const contactList: Contact[] = [
   {
     id: uuidv4(),
-    name: "Chrystopher",
-    email: "chrystopher@gmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Vitora",
+    email: "vitoria@gmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "uniritter"
   },
   {
     id: uuidv4(),
-    name: "Leonardo",
-    email: "leonardo@gmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Maike",
+    email: "maike@gmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "movese"
   },
   {
     id: uuidv4(),
-    name: "Luis",
-    email: "luis@gmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Zorbe",
+    email: "zorbe@gmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "zorbe"
   },
   {
     id: uuidv4(),
     name: "Maurício",
     email: "mau@hotmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
     empresa: "lasalle"
   },
   {
     id: uuidv4(),
-    name: "Pedro",
-    email: "pedro@gmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Pedrinho",
+    email: "pedrinho@gmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "unisinos"
   },
   {
     id: uuidv4(),
-    name: "Rafa",
-    email: "rafa@gmail.com",
-    telephone: "123456789",
+    name: "Joao",
+    email: "joao@gmail.com",
+    telephone: "(51)997934446",
     nascimento: "30/06/1996",
-    empresa: "lasalle"
+    empresa: "fiane"
   },
   {
     id: uuidv4(),
     name: "Rafael",
     email: "rafael@gmail.com",
-    telephone: "123456789",
+    telephone: "(51)997934446",
     nascimento: "30/06/1996",
     empresa: "lasalle"
   },
   {
     id: uuidv4(),
-    name: "Rafael Danoski",
-    email: "rafaeldanoski@gmail.com",
-    telephone: "123456789",
+    name: "Pedreiro",
+    email: "pedreiro@gmail.com",
+    telephone: "(51)997934446",
     nascimento: "30/06/1996",
-    empresa: "lasalle"
+    empresa: "pedreiro"
   },
   {
     id: uuidv4(),
-    name: "Thaynara",
-    email: "thaynara@hotmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Vionata",
+    email: "dionata@hotmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "muck"
   },
   {
     id: uuidv4(),
-    name: "Vanessa",
-    email: "vanessa@gmail.com",
-    telephone: "123456789",
-    nascimento: "01/01/1900",
-    empresa: "lasalle"
+    name: "Valerai",
+    email: "valerai@gmail.com",
+    telephone: "(51)997934446",
+    nascimento: "13/10/2022",
+    empresa: "record"
   } 
 ];
 

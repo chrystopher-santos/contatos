@@ -1,6 +1,9 @@
 # Introdução
 
-Este é um projeto acadêmico com intuito de criar uma aplicação de contatos com reactjs.
+Este é um projeto com o intuito de desenvolver uma aplicação de contatos, utilizando React Native.
+
+A aplicação possui, na tela inicial, uma lista de contatos, exibindo o nome do contato, o e-mail e a data de nascimento do contato.
+É permitido ao usuário vizualizar os detalhes de um contato, alterar os dados de um contato, incluir novos contatos e excluir contatos existentes.
 
 # Instalando dependências
 

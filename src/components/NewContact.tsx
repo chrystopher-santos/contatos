@@ -66,7 +66,7 @@ const NewContact: React.FC<NewContactProps> = ({ id }) => {
     dispatch(updateContact({ name, email, telephone, nascimento, empresa, id}));
     history.push("/");
   };
-  
+
   return (
     <form onSubmit={handleSubmit(onSubmit)}>
       <div className="bg-gray-900  p-4 px-4 text-sm ">
@@ -134,7 +134,7 @@ const NewContact: React.FC<NewContactProps> = ({ id }) => {
           <div className="inline-flex items-end">
             <button
               type="submit"
-              className="flex items-center bg-blue-600 text-white hover:bg-purple-500 p-3 rounded text-sm w-auto"
+              className="flex items-center bg-blue-600 text-white hover:bg-blue-900 p-3 rounded text-sm w-auto"
               
             >
               <BsFillCursorFill />
